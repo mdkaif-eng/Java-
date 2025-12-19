@@ -7,6 +7,6 @@ public class Syntax{
     }
     public static void main(String[] args) {
         printHelloWorld(); //function call
-    }
+    }   
     
 }
