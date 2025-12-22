@@ -17,7 +17,7 @@ public class Triangle{
     }
 
 public static void main(String[]args){
-    zero_one_triangle(5);
+    zero_one_triangle(9);
 
     
 }
