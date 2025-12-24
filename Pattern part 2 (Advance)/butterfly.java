@@ -14,7 +14,7 @@ public class butterfly{
             }
 
 
-            //stars(i)
+            //stars(i) 
             for(int j=1; j<=i; j++){
                 System.out.print("*");
             }

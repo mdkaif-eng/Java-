@@ -6,7 +6,7 @@ public class invertednumber{
                 System.out.print(j+ " ");
             }
             System.out.println();
-            
+             
         }
     }
         public static void main (String[]args){

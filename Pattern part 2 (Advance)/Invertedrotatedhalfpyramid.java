@@ -13,8 +13,8 @@ public class Invertedrotatedhalfpyramid{
             System.out.println();
         }
     }
-        public static void main(String[]args){c
-            Inverted_rotated_half_pyramid(4);
+        public static void main(String[]args){
+            Inverted_rotated_half_pyramid(4  );
         
     }
     
